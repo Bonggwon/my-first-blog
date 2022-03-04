@@ -1,0 +1,28 @@
+# created by virtualenv automatically
+
+# python
+*.pyc
+*~
+
+# Env
+.env
+myvenv/
+venv/
+Lib/
+Scripts/
+
+# Database
+db.sqlite3
+
+# Windows
+Thumbs.db*
+ehthumbs*.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Visual Studio
+.vscode/
+.history/
+*.code-workspace
+
+
